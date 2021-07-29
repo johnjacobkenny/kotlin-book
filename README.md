@@ -2,19 +2,15 @@
 description: This is the home page
 ---
 
-# Home
+# Kotlin Deep Dive
 
-## This is some content.
+## Why
 
-This is a paragraph text. fadsfa
-
-Testing some updates.
+This book is meant to document my learning in Kotlin and is a way to give back to the developer community. This will be a book that is developed in the open and anyone can join as contributors.
 
 
 
-New space
+### Inspiration
 
-Yes
-
-Some more
+This book is inspired by Basarat's Typescript book.
 
