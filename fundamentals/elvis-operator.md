@@ -34,15 +34,57 @@ So what this is saying is that Kotlin will first check if the variable is not nu
 
 ![](../.gitbook/assets/elvis-operator.png)
 
+```kotlin
+//     when b is non null
+       var b: String = "Kenny"
+       var c: String = "Proful"
+       var a = b ?: c
+       println(a)
+    
+//     when b is null
+       var b: String? = null
+       var c: String = "Proful"
+       var a = b ?: c
+       println(a)
+    
+//     when b and c are null
+       var b: String? = null
+       var c: String? = null
+       var a = b ?: c
+       println(a)
+    
+//     example with if condition
+       var b: String = "Kenny"
+       var c: String = "Proful"
+       var a = if (b != null) b else c
+       println(a)
+```
+
 ### Examples
 
-So let us see the two separate cases in action
+So let us see the three cases in action
 
+{% tabs %}
+{% tab title="When name is not null" %}
 ```kotlin
 var name: String = "Kenny"
 var result = name ?: "Kotlin"
 println(result)
+
+// result has value "Kenny"
 ```
+{% endtab %}
+
+{% tab title="When \`name\` is null" %}
+```kotlin
+var name: String = "Kenny"
+var result = name ?: "Kotlin"
+println(result)
+
+// result has value "Kenny"
+```
+{% endtab %}
+{% endtabs %}
 
 So what happens is that this takes 
 
