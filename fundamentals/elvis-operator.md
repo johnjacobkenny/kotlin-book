@@ -82,5 +82,9 @@ This operator when rotated looks like the famous singer Elvis Presley's hairstyl
 
 {% embed url="https://stackoverflow.com/questions/48253107/what-does-do-in-kotlin-elvis-operator" %}
 
+{% embed url="https://excalidraw.com/\#json=4827141933891584,Ldn0fH\_ZGXN7N1rR3xXu4g" %}
+
+
+
 
 
