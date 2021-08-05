@@ -5,8 +5,9 @@
 ## Cookbook
 
 * [Running log of concepts](cookbook/running-log-of-concepts.md)
+* [Create a Kotlin project from scratch with Gradle](cookbook/how-to-create-a-kotlin-project-from-scratch-with-gradle.md)
 * [Reading from a file](cookbook/reading-from-a-file.md)
-* [How to create a Kotlin project from scratch with Gradle](cookbook/how-to-create-a-kotlin-project-from-scratch-with-gradle.md)
+* [Common gradle stuff?](cookbook/common-gradle-stuff.md)
 
 ## Fundamentals
 

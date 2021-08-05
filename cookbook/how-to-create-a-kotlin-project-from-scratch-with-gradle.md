@@ -1,4 +1,4 @@
-# How to create a Kotlin project from scratch with Gradle
+# Create a Kotlin project from scratch with Gradle
 
 
 
