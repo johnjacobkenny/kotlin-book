@@ -9,5 +9,4 @@
 * extension functions
 * creating new objects in Kotlin
 * infix function
-* statement vs expression
 
