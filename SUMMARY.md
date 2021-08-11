@@ -15,6 +15,7 @@
 * [Running log of concepts](fundamentals/running-log-of-concepts.md)
 * [Elvis operator](fundamentals/elvis-operator.md)
 * [Statement vs Expression](fundamentals/statement-vs-expression.md)
+* [Repeat operator](fundamentals/repeat-operator.md)
 
 ## Libraries
 
